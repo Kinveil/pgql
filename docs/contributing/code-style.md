@@ -67,7 +67,7 @@ parent: Contributing
 
        "github.com/lib/pq"
 
-       "github.com/your/project/internal/parser"
+       "github.com/Kinveil/pgql/internal/parser"
    )
    ```
 

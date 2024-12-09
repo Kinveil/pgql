@@ -20,7 +20,7 @@ This guide will help you set up your development environment for PGQL.
 1. **Fork and Clone**
 
    ```bash
-   git clone https://github.com/yourusername/pgql.git
+   git clone https://github.com/Kinveil/pgql.git
    cd pgql
    ```
 
